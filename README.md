@@ -1,5 +1,6 @@
 # Movie-Rental-Analytics
-Problem Statement
+Problem Statement :
+
 The objective of this project is to create a comprehensive Power BI dashboard using the Sakila DVD Rental Store Database, providing valuable insights into the rental store business. The analysis will focus on customer behavior, film inventory management, staff performance, and store operations. The goal is to enable data-driven decision-making and improve overall business performance. The Power BI dashboard will offer insights into customer segmentation, sales trends, film performance, staff productivity, and store revenue. The primary aim is to optimize film inventory, enhance customer satisfaction, improve staff performance, and streamline store operations. The dashboard will provide actionable recommendations for targeted marketing campaigns, film collection enhancements, and staff training initiatives to improve business performance. The final deliverables will include a report and presentation showcasing the dashboard's findings and recommendations. The Power BI dashboard will serve as a valuable tool for rental store owners to make informed decisions and achieve success in the competitive DVD rental market.
 
 Dataset Description
